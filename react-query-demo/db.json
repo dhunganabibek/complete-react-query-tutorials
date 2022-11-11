@@ -1,0 +1,19 @@
+{
+    "superheroes": [
+        {
+            "id": 1,
+            "name": "Albert Einstein",
+            "alterEgo": "Science"
+        },
+        {
+            "id": 1,
+            "name": "Isac Newton",
+            "alterEgo": "Science"
+        },
+        {
+            "id": 1,
+            "name": "Alan Turing",
+            "alterEgo": "Math"
+        }
+    ]
+}
